@@ -4,10 +4,10 @@ https://sdt-project-ukrl.onrender.com
 
 In this project, I built and deployed a web application dashboard to a cloud service using Streamlit. The app is a tool for simulating random events and provides an interactive dashboard where users can explore and visualize the results.
 Tools and Technologies
--Python: For coding and data processing.
--Streamlit: To build the web app.
--Pandas/Numpy: For data simulation.
--Plotly/Matplotlib: For visualizations.
+Python: For coding and data processing.
+Streamlit: To build the web app.
+Pandas/Numpy: For data simulation.
+Plotly/Matplotlib: For visualizations.
 How to Run Locally
 To run the app on your machine:
 1.Clone the Repository:
