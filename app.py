@@ -5,7 +5,7 @@ import numpy as np
 import plotly.express as px
 from matplotlib import pyplot as plt
 #import need libraries
-df=pd.read_csv(df = pd.read_csv('./datasets/spotify_2023.csv')
+df = pd.read_csv('./datasets/spotify_2023.csv')
 #read file
 st.title("Spotify Most Streamed Songs in 2023")
 st.header("Interactive Scatter Plot of Spotify Charts Based on BPM")
