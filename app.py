@@ -19,7 +19,7 @@ fig1= px.scatter(
 )
 st.plotly_chart(fig1)
 #scatterplot labeled as fig1
-st.header("Interactive Histogram: Number if Songs Released by Year")
+st.header("Interactive Histogram: Number of Songs Released by Year")
 fig2= px.histogram(
     df,
     x='released_year',
